@@ -22,7 +22,7 @@ JobPortal is a complete job hiring and job seeking platform built using PHP and 
  Screenshots
 | Homepage | Services | Contact |
 |-----------|-----------|----------|
-| ![Homepage](JobPortal Site.jpg) | ![Login](job portal 1.jpg) |  |  ![Loginpage](job portal 2.jpg) |
+| ![Homepage](jobportal.jpg) | ![Login](jobportal3.jpg) |  |  ![Loginpage](jobportal1.jpg) |
 
 ## 📁 Folder Structure
 ## ⚙️ How to Run Locally
@@ -31,5 +31,6 @@ JobPortal is a complete job hiring and job seeking platform built using PHP and 
 3. Update `php/dbconfig.php` with your local credentials
 4. Access in browser via:  
    `http://localhost/JobPortal/`
+
 
 
